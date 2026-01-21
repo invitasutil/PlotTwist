@@ -1,29 +1,30 @@
 [
   {
     "cat": "Misterio",
-	"code":"TT1es.zip",
-	"title":"El gato en la noche",
-	"sinopsis":"Un grupo de adolescente deciden ir a revisar una vieja casa, a las afueras del puebolo. Esta casa es famosa porque se dice que en siglo pasados, vivieron espíritus.",
-	"fecha":"21-01-2026"
-	"img":"ttimg1es.jpg"
-	"autor":"PlotTwist"
+    "code": "TT1es.zip",
+    "title": "El gato en la noche",
+    "sinopsis": "Un grupo de adolescente deciden ir a revisar una vieja casa, a las afueras del pueblo. Esta casa es famosa porque se dice que en siglos pasados, vivieron espíritus.",
+    "fecha": "21-01-2026",
+    "img": "ttimg1es.jpg",
+    "autor": "PlotTwist"
   },
   {
-    "cat": "Humor"
-	"code":"TT2es.zip",
-	"title":"Viaje por los Alpes",
-	"sinopsis":"Una pareja decide celebrar su luna de miel, escalando los Alpes Suizos, y allí le suceden eventos divertidos.",
-	"fecha":"21-01-2026"
-	"img":"ttimg2es.jpg"
-	"autor":"PlotTwist"
+    "cat": "Humor",
+    "code": "TT2es.zip",
+    "title": "Viaje por los Alpes",
+    "sinopsis": "Una pareja decide celebrar su luna de miel, escalando los Alpes Suizos, y allí le suceden eventos divertidos.",
+    "fecha": "21-01-2026",
+    "img": "ttimg2es.jpg",
+    "autor": "PlotTwist"
   },
   {
-    "cat": "Aventura"
-	"code":"TT3es.zip",
-	"title":"El centro del mundo",
-	"sinopsis":"Un grupo de cientificos creen haber encontrado el verdadero volcán, que describe Julio Verne, en su libro Viaje al Centro de la Tierra.",
-	"fecha":"21-01-2026"
-	"img":"ttimg3es.jpg"
-	"autor":"PlotTwist"
+    "cat": "Aventura",
+    "code": "TT3es.zip",
+    "title": "El centro del mundo",
+    "sinopsis": "Un grupo de científicos creen haber encontrado el verdadero volcán, que describe Julio Verne, en su libro Viaje al Centro de la Tierra.",
+    "fecha": "21-01-2026",
+    "img": "ttimg3es.jpg",
+    "autor": "PlotTwist"
   }
 ]
+
