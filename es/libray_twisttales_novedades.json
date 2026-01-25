@@ -5,7 +5,7 @@
     "title": "La casa de las luces",
     "sinopsis": "En Willow Creek, tres adolescentes exploran la mansión de una antigua leyenda. Lo que comienza como curiosidad se transforma en una experiencia sobrenatural cuando luces imposibles emergen, revelando una verdad que desafía la lógica y la memoria del pueblo.",
     "fecha": "21-01-2026",
-    "img": "ttimg1es.jpg",
+    "img": "ttimg1.jpg",
     "autor": "PlotTwist"
   },
   {
@@ -14,7 +14,7 @@
     "title": "Viaje por los Alpes",
     "sinopsis": "Una pareja decide celebrar su luna de miel, escalando los Alpes Suizos, y allí le suceden eventos divertidos.",
     "fecha": "21-01-2026",
-    "img": "ttimg2es.jpg",
+    "img": "ttimg2.jpg",
     "autor": "PlotTwist"
   },
   {
@@ -23,7 +23,8 @@
     "title": "El centro del mundo",
     "sinopsis": "Un grupo de científicos creen haber encontrado el verdadero volcán, que describe Julio Verne, en su libro Viaje al Centro de la Tierra.",
     "fecha": "21-01-2026",
-    "img": "ttimg3es.jpg",
+    "img": "ttimg3.jpg",
     "autor": "PlotTwist"
   }
 ]
+
