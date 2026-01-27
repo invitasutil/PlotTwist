@@ -2,19 +2,19 @@
   {
     "cat": "Misterio",
     "code": "tstory1.zip",
-    "title": "Historia1",
+    "title": "La casa de las luces",
     "sinopsis": "En Willow Creek, tres adolescentes exploran la mansión de una antigua leyenda. Lo que comienza como curiosidad se transforma en una experiencia sobrenatural cuando luces imposibles emergen, revelando una verdad que desafía la lógica y la memoria del pueblo.",
     "fecha": "21-01-2026",
-    "img": "ttimg1es.jpg",
+    "img": "ttimg1.jpg",
     "autor": "PlotTwist"
   },
   {
     "cat": "Misterio",
     "code": "tstory2.zip",
-    "title": "Historia2",
-    "sinopsis": "Una pareja decide celebrar su luna de miel, escalando los Alpes Suizos, y allí le suceden eventos divertidos.",
+    "title": "La moneda del naufragio",
+    "sinopsis": "En 2068, una expedición descubre el HMS Sussex, un barco del siglo XXVII con un tesoro oculto: una moneda ancestral. Robada y entregada a un millonario obsesionado, su destino queda en manos de un académico marcado por un linaje secreto.",
     "fecha": "21-01-2026",
-    "img": "ttimg2es.jpg",
+    "img": "ttimg2.jpg",
     "autor": "PlotTwist"
   },
   {
