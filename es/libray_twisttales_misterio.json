@@ -6,7 +6,7 @@
     "sinopsis": "En Willow Creek, tres adolescentes exploran la mansión de una antigua leyenda. Lo que comienza como curiosidad se transforma en una experiencia sobrenatural cuando luces imposibles emergen, revelando una verdad que desafía la lógica y la memoria del pueblo.",
     "fecha": "21-01-2026",
     "img": "ttimg1.jpg",
-    "autor": "PlotTwist"
+    "autor": "Twistories"
   },
   {
     "cat": "Misterio",
@@ -15,15 +15,15 @@
     "sinopsis": "En 2068, una expedición descubre el HMS Sussex, un barco del siglo XVII con un tesoro oculto: una moneda ancestral. Robada y entregada a un millonario obsesionado, su destino queda en manos de un académico marcado por un linaje secreto.",
     "fecha": "21-01-2026",
     "img": "ttimg2.jpg",
-    "autor": "PlotTwist"
+    "autor": "Twistories"
   },
   {
     "cat": "Misterio",
     "code": "tstory3.zip",
-    "title": "Historia3",
-    "sinopsis": "Un grupo de científicos creen haber encontrado el verdadero volcán, que describe Julio Verne, en su libro Viaje al Centro de la Tierra.",
+    "title": "El diablo de Kock",
+    "sinopsis": "En la última resistencia polaca en la Batalla de Kock, soldados exhaustos enfrentan la maquinaria alemana mientras una fuerza invisible altera la naturaleza y confunde al enemigo. Entre la bruma surge el diablo noble de Łęczyca, cuyo poder decide el destino de la batalla.",
     "fecha": "21-01-2026",
-    "img": "ttimg3es.jpg",
-    "autor": "PlotTwist"
+    "img": "ttimg3.jpg",
+    "autor": "Twistories"
   }
 ]
