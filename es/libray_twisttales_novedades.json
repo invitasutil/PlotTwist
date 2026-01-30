@@ -1,14 +1,5 @@
 [
   {
-    "cat": "Misterio",
-    "code": "tstory1.zip",
-    "title": "La casa de las luces",
-    "sinopsis": "En Willow Creek, tres adolescentes exploran la mansión de una antigua leyenda. Lo que comienza como curiosidad se transforma en una experiencia sobrenatural cuando luces imposibles emergen, revelando una verdad que desafía la lógica y la memoria del pueblo.",
-    "fecha": "21-01-2026",
-    "img": "ttimg1.jpg",
-    "autor": "PlotTwist"
-  },
-  {
     "cat": "Humor",
     "code": "tstory2.zip",
     "title": "Viaje por los Alpes",
@@ -26,5 +17,15 @@
     "img": "ttimg3.jpg",
     "autor": "PlotTwist"
   }
+    {
+    "cat": "Misterio",
+    "code": "tstory1.zip",
+    "title": "La casa de las luces",
+    "sinopsis": "En Willow Creek, tres adolescentes exploran la mansión de una antigua leyenda. Lo que comienza como curiosidad se transforma en una experiencia sobrenatural cuando luces imposibles emergen, revelando una verdad que desafía la lógica y la memoria del pueblo.",
+    "fecha": "21-01-2026",
+    "img": "ttimg1.jpg",
+    "autor": "PlotTwist"
+  },
 ]
+
 
